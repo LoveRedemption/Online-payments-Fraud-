@@ -10,10 +10,10 @@ Accent Bank wants to build a machine-learning model to predict online payment fr
 
 
 # Skills and Libraries Used
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Python
-Data cleaning, Data Manipulation and Data Wrangling.
-Exploratory Data Analysis (Univariate, Bivariate, Multivariate Analysis, and Visualization).
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Python
+6. Data cleaning, Data Manipulation and Data Wrangling.
+7. Exploratory Data Analysis (Univariate, Bivariate, Multivariate Analysis, and Visualization).
